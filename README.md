@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gabriela Taylor
 =======================================================================================================================================
 
-Software Engineer | Javascript | React | Express | PostgreSQL | MongoDB
+Software Engineer | Typescript | React | PostgreSQL | Docker
 -----------------------------------------------------------------------
 
 Hello! I’m Gabriela and I'm a software engineer who's passionate about continuous improvement and writing clean, modular code in a collaborative setting. I’m fascinated with finding the intersection of technology and art, and I thrive in an environment that marries my love of creativity and solving tough problems.
