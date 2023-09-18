@@ -11,7 +11,7 @@ Over the course of the past year I’ve worked on applications that leveraged Ty
 In my free time you can find me self-teaching Japanese 🇯🇵 or French 🇫🇷, scouring the internet to find new editions to add to my personal library 📚, or building (yet another) mechanical keyboard ⌨️
 
 *   🌍  I'm based in Tampa, Florida
-*   ✉️  You can contact me at [gbmytabc1@gmail.com](mailto:gbmytabc1@gmail.com)   
+*   ✉️  You can contact me at [gbmytabc1@gmail.com](mailto:gabrielataylor1994@gmail.com)   
 
 ### Skills 
 <p align="left">
